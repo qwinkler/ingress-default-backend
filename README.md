@@ -1,6 +1,6 @@
 # Default Ingress Backend
 
-<img src="./example.png">
+<img src="./img/example.png">
 
 ## Build
 
